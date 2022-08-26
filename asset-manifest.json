@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/fitmockup/static/css/main.5d7342cb.chunk.css",
-    "main.js": "/fitmockup/static/js/main.2f0b7262.chunk.js",
+    "main.js": "/fitmockup/static/js/main.1bbcd362.chunk.js",
     "runtime-main.js": "/fitmockup/static/js/runtime-main.4ff902c4.js",
     "static/css/2.12548a62.chunk.css": "/fitmockup/static/css/2.12548a62.chunk.css",
     "static/js/2.995e28db.chunk.js": "/fitmockup/static/js/2.995e28db.chunk.js",
     "index.html": "/fitmockup/index.html",
-    "precache-manifest.ce7918f308eb051800af9a482ff22a7d.js": "/fitmockup/precache-manifest.ce7918f308eb051800af9a482ff22a7d.js",
+    "precache-manifest.da97c7a64daa8e8c217709c099fd6745.js": "/fitmockup/precache-manifest.da97c7a64daa8e8c217709c099fd6745.js",
     "service-worker.js": "/fitmockup/service-worker.js",
     "static/js/2.995e28db.chunk.js.LICENSE.txt": "/fitmockup/static/js/2.995e28db.chunk.js.LICENSE.txt",
     "static/media/analyze.svg": "/fitmockup/static/media/analyze.338be757.svg",
@@ -24,6 +24,6 @@
     "static/css/2.12548a62.chunk.css",
     "static/js/2.995e28db.chunk.js",
     "static/css/main.5d7342cb.chunk.css",
-    "static/js/main.2f0b7262.chunk.js"
+    "static/js/main.1bbcd362.chunk.js"
   ]
 }
