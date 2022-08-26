@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/fitmockup/static/css/main.5d7342cb.chunk.css",
+    "main.js": "/fitmockup/static/js/main.2f0b7262.chunk.js",
+    "runtime-main.js": "/fitmockup/static/js/runtime-main.4ff902c4.js",
+    "static/css/2.12548a62.chunk.css": "/fitmockup/static/css/2.12548a62.chunk.css",
+    "static/js/2.995e28db.chunk.js": "/fitmockup/static/js/2.995e28db.chunk.js",
+    "index.html": "/fitmockup/index.html",
+    "precache-manifest.ce7918f308eb051800af9a482ff22a7d.js": "/fitmockup/precache-manifest.ce7918f308eb051800af9a482ff22a7d.js",
+    "service-worker.js": "/fitmockup/service-worker.js",
+    "static/js/2.995e28db.chunk.js.LICENSE.txt": "/fitmockup/static/js/2.995e28db.chunk.js.LICENSE.txt",
+    "static/media/analyze.svg": "/fitmockup/static/media/analyze.338be757.svg",
+    "static/media/angle-up.60d89147.svg": "/fitmockup/static/media/angle-up.60d89147.svg",
+    "static/media/arrowfrom.7ce61070.svg": "/fitmockup/static/media/arrowfrom.7ce61070.svg",
+    "static/media/brandLogo.svg": "/fitmockup/static/media/brandLogo.1a73cb75.svg",
+    "static/media/diagSwitch.svg": "/fitmockup/static/media/diagSwitch.6f3c8012.svg",
+    "static/media/errorboundary.svg": "/fitmockup/static/media/errorboundary.f0a0e582.svg",
+    "static/media/key.svg": "/fitmockup/static/media/key.90ca1815.svg",
+    "static/media/pen.svg": "/fitmockup/static/media/pen.720fb402.svg",
+    "static/media/index.css": "/fitmockup/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ff902c4.js",
+    "static/css/2.12548a62.chunk.css",
+    "static/js/2.995e28db.chunk.js",
+    "static/css/main.5d7342cb.chunk.css",
+    "static/js/main.2f0b7262.chunk.js"
+  ]
+}
